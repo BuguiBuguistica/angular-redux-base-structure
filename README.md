@@ -1,0 +1,1 @@
+# angular-redux-base-structure
