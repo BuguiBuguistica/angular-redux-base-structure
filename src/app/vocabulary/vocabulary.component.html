@@ -1,0 +1,9 @@
+<p>
+  vocabulary works!
+</p>
+
+<ul>
+  <li *ngFor="let word of (vocabulary$ | async)">
+    {{word.id}}
+  </li>
+</ul>
